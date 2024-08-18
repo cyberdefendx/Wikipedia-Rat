@@ -69,7 +69,7 @@ Wikipedia Rat is a tool that allows remote control of computers. Built in C#, it
 - Listen on multiple ports
 - Password secured
 
-## For More Information or to Connect with Me
+## For More Information or to Connect with US
 
 - **Facebook:** [Cyber Defend X] (https://www.facebook.com/cyberdefendx)
 - **LinkedIn:** [Cyber Defend X] (https://www.linkedin.com/company/cybredefendx/)
